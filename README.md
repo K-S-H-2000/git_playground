@@ -1,4 +1,5 @@
 # git_playground
 practicing git and github
 
-어맨드 실습하기.
+##첫번째 버그
+- 모기
